@@ -1,0 +1,27 @@
+h1{
+    color:mediumvioletred;
+}
+h2{
+    color:mediumvioletred ;
+}
+p {
+    
+    font-size: large;
+    
+}
+
+   .activities {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+.activities-list {
+  font-size: 60px;
+  line-height: 1.6;
+  padding-bottom: 120px; /* BIG bottom padding */
+}
+
+.activities-list li {
+  margin-bottom: 10px;
+}
+]
